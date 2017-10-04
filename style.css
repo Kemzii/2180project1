@@ -21,3 +21,12 @@ aside {
   float: right;
   width: 90%;
 }
+img {
+   
+    width: 150px;
+    float: right;
+    transform: rotate(-5deg); 
+    position: absolute;
+    top: 2%;
+    right: 5%;
+}
